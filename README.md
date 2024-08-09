@@ -1,6 +1,6 @@
 ## Hey there, Shubham this side!
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About M
 
 - 🤔 &nbsp; Fullstack Developer working remotely in India.
 - 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS), Backend (Python, Django, DRF) and Data Structures Algorithms).
